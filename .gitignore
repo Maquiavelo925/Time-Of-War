@@ -1,0 +1,9 @@
+# Archivos de la sincronizacion (no se suben)
+sincronizar.ps1
+sincronizar.log
+INSTALAR_SINCRONIZACION.bat
+
+# Basura de Windows y Office
+Thumbs.db
+desktop.ini
+~$*
